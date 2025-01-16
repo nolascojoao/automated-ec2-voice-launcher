@@ -43,7 +43,11 @@ Captura o áudio, transcreve com o AWS Transcribe e usa uma função AWS Lambda 
 ### Vídeo Demo
 
 
-[![Demonstração do Projeto](#)](#)
+<p align="center">
+  <a href="https://youtu.be/X7NFVisl2SQ">
+    <img src="https://img.youtube.com/vi/X7NFVisl2SQ/0.jpg" alt="Assista ao vídeo" />
+  </a>
+</p>
 
 
 ---
