@@ -65,7 +65,7 @@ Para um passo a passo de execução e configuração, confira o [Guia do Projeto
 ### Roadmap de Melhorias
 
 
-- **Transcrição em Tempo Real**: Integrar o Amazon Transcribe para acelerar a conversão de áudio em texto, oferecendo respostas mais rápidas.
+- **Transcrição em Tempo Real**: Integrar com o **Real-time transcription** do Amazon Transcribe para acelerar a conversão de áudio em texto, oferecendo respostas mais rápidas.
   
 
 - **Automatizar com Terraform**: Utilizar Terraform para gerenciar a criação e remoção de instâncias EC2, agilizando a infraestrutura.
