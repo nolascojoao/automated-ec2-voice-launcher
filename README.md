@@ -56,7 +56,7 @@ Captura o áudio, transcreve com o AWS Transcribe e usa uma função AWS Lambda 
 ### Guia para Execução do Projeto
 
 
-Para um passo a passo de execução e configuração, confira o [Guia do Projeto](#) ✅
+Para um passo a passo de execução e configuração, confira o [Guia do Projeto](https://github.com/MariaClaravalotti/transcribe) ✅
 
 
 ---
